@@ -13,4 +13,4 @@ Choose region: 	Cape Town for EC2 Instances and Nginx server
 Ohio region key pair is called  “Bitcube_interview.pem”
 Cape town region key pair is called  “The interview.pem”
 
-Key pairs are found under Master
+Key pairs are found under Master Branch
